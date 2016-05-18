@@ -1,0 +1,19 @@
+{
+  "name": "gulp-img2js",
+  "version": "0.0.1",
+  "description": "Embed images to javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirgamalian/gulp-img2js.git"
+  },
+  "author": "Vladimir Gamalian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladimirgamalian/gulp-img2js/issues"
+  },
+  "homepage": "https://github.com/vladimirgamalian/gulp-img2js#readme"
+}
